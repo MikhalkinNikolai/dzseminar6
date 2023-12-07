@@ -1,0 +1,14 @@
+C:\Users\Ксюша\Desktop\dzseminar6\Tesk3\bin\Debug\net8.0\Tesk3.exe
+C:\Users\Ксюша\Desktop\dzseminar6\Tesk3\bin\Debug\net8.0\Tesk3.deps.json
+C:\Users\Ксюша\Desktop\dzseminar6\Tesk3\bin\Debug\net8.0\Tesk3.runtimeconfig.json
+C:\Users\Ксюша\Desktop\dzseminar6\Tesk3\bin\Debug\net8.0\Tesk3.dll
+C:\Users\Ксюша\Desktop\dzseminar6\Tesk3\bin\Debug\net8.0\Tesk3.pdb
+C:\Users\Ксюша\Desktop\dzseminar6\Tesk3\obj\Debug\net8.0\Tesk3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ксюша\Desktop\dzseminar6\Tesk3\obj\Debug\net8.0\Tesk3.AssemblyInfoInputs.cache
+C:\Users\Ксюша\Desktop\dzseminar6\Tesk3\obj\Debug\net8.0\Tesk3.AssemblyInfo.cs
+C:\Users\Ксюша\Desktop\dzseminar6\Tesk3\obj\Debug\net8.0\Tesk3.csproj.CoreCompileInputs.cache
+C:\Users\Ксюша\Desktop\dzseminar6\Tesk3\obj\Debug\net8.0\Tesk3.dll
+C:\Users\Ксюша\Desktop\dzseminar6\Tesk3\obj\Debug\net8.0\refint\Tesk3.dll
+C:\Users\Ксюша\Desktop\dzseminar6\Tesk3\obj\Debug\net8.0\Tesk3.pdb
+C:\Users\Ксюша\Desktop\dzseminar6\Tesk3\obj\Debug\net8.0\Tesk3.genruntimeconfig.cache
+C:\Users\Ксюша\Desktop\dzseminar6\Tesk3\obj\Debug\net8.0\ref\Tesk3.dll
